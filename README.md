@@ -1,4 +1,3 @@
-# Heat-Recirculation-Aware-Virtual-Machine-Placement
 # Matlab虚拟机放置SABA算法已发表于Towards Heat-Recirculation-Aware Virtual Machine Placement in Data Centers论文（Hao Feng, Y. Deng, Y. Zhou and G. Min, "Towards Heat-Recirculation-Aware Virtual Machine Placement in Data Centers," in IEEE Transactions on Network and Service Management, online, doi: 10.1109/TNSM.2021.3120295. ）。
 ## 1. 文件列表
 1. D.mat
